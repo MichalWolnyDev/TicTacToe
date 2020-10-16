@@ -1,0 +1,11 @@
+C:\Users\Majkelo\Desktop\Programowanie-obiektowe\Kolko-i-krzyzyk\tictactoe\tictactoe\bin\Debug\netcoreapp3.0\tictactoe.exe
+C:\Users\Majkelo\Desktop\Programowanie-obiektowe\Kolko-i-krzyzyk\tictactoe\tictactoe\bin\Debug\netcoreapp3.0\tictactoe.deps.json
+C:\Users\Majkelo\Desktop\Programowanie-obiektowe\Kolko-i-krzyzyk\tictactoe\tictactoe\bin\Debug\netcoreapp3.0\tictactoe.runtimeconfig.json
+C:\Users\Majkelo\Desktop\Programowanie-obiektowe\Kolko-i-krzyzyk\tictactoe\tictactoe\bin\Debug\netcoreapp3.0\tictactoe.runtimeconfig.dev.json
+C:\Users\Majkelo\Desktop\Programowanie-obiektowe\Kolko-i-krzyzyk\tictactoe\tictactoe\bin\Debug\netcoreapp3.0\tictactoe.dll
+C:\Users\Majkelo\Desktop\Programowanie-obiektowe\Kolko-i-krzyzyk\tictactoe\tictactoe\bin\Debug\netcoreapp3.0\tictactoe.pdb
+C:\Users\Majkelo\Desktop\Programowanie-obiektowe\Kolko-i-krzyzyk\tictactoe\tictactoe\obj\Debug\netcoreapp3.0\tictactoe.csprojAssemblyReference.cache
+C:\Users\Majkelo\Desktop\Programowanie-obiektowe\Kolko-i-krzyzyk\tictactoe\tictactoe\obj\Debug\netcoreapp3.0\tictactoe.AssemblyInfoInputs.cache
+C:\Users\Majkelo\Desktop\Programowanie-obiektowe\Kolko-i-krzyzyk\tictactoe\tictactoe\obj\Debug\netcoreapp3.0\tictactoe.AssemblyInfo.cs
+C:\Users\Majkelo\Desktop\Programowanie-obiektowe\Kolko-i-krzyzyk\tictactoe\tictactoe\obj\Debug\netcoreapp3.0\tictactoe.dll
+C:\Users\Majkelo\Desktop\Programowanie-obiektowe\Kolko-i-krzyzyk\tictactoe\tictactoe\obj\Debug\netcoreapp3.0\tictactoe.pdb
